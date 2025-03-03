@@ -31,4 +31,4 @@ bitfield = "0.17.0"
 bitflags = "2.6.0"
 nonmax = "0.5.5"
 smallvec = "1.13.2"
-wgpu = { version = "23.0.1", default-features = false }
+wgpu = { version = "24", default-features = false }
